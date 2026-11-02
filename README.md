@@ -55,7 +55,7 @@ Reviews record actions in a browser tab, not authenticated people. The JSON expo
 
 
 ## AI disclosure
-OpenAI Codex assisted with concept development, implementation, synthetic fixtures, tests and text. No external pretrained model or real household dataset is bundled. Development began 2 November 2026. This attachment contains source code and a standalone offline demo. Browser interaction and field accuracy remain unverified. No submitted demo video or public code URL is claimed.
+OpenAI Codex assisted with concept development, implementation, synthetic fixtures, tests and text. No external pretrained model or real household dataset is bundled. Development began 2 November 2026. This repository contains source code and a standalone offline demo. A browser walkthrough verified CSV import, three saved review decisions, a routine-use scenario and a JSON export with 1,440 readings. A narrated demo video has been produced locally; online video publication remains pending. Field accuracy and water savings have not been validated.
 
 ## License
 MIT; see LICENSE.
