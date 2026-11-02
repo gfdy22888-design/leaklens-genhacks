@@ -1,0 +1,1 @@
+{"name":"leaklens","version":"0.1.0","private":true,"type":"module","scripts":{"start":"node server.mjs","build":"node build-offline.mjs","test":"node --test","check":"node --check dist/engine.js && node --check dist/app.js && node --check server.mjs && node --check build-offline.mjs"}}
